@@ -1,1 +1,1 @@
-import './js/jsonp.js'
+import './js/ajax.js'
